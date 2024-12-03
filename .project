@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<name>JDBCTest</name>
 =======
 	<name>Test</name>
 >>>>>>> practice/JDBC_TEST_extra
+=======
+	<name>JDBCTest_Score</name>
+>>>>>>> practice/JDBC_TEST_score
 	<comment></comment>
 	<projects>
 	</projects>
